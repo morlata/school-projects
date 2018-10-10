@@ -1,11 +1,13 @@
+/*  Taylor Morlan
+Project 2 - Subtract a Square */
+
 #include<iostream>
 #include<math.h>
 #include<ctime>
 #include<cstdlib>
 #include<cmath>
 using namespace std;
-/*  Taylor Morlan
-Project 2 - Subtract a Square */
+
 int main(){
 	srand((unsigned)time(0));//Initializing random number generation.
 	int heapOne;//Integer for number of marbles in the first heap.
